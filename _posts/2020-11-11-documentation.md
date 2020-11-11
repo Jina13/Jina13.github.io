@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /word/
 layout: single
 title: "UI, UX, 인터렉션의 차이"
 ---
