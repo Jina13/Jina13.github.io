@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko_KR.UTF-8"
 title                    : "Jina's Tech Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jina's Tech Blog"
-description              : "An amazing website."
+description              : "UX QA"
 url                      : # the base hostname & protocol for your site e.g. "https://jina13.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "Jina13/Jina13.github.io"
@@ -94,10 +94,10 @@ analytics:
 # Site Author
 author:
   name             : "Jina's Tech Blog"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.png"
+  bio              : "**UX**에 관심 많은 QA 입니다."
+  location         : ""
+  email            : "gina2567@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
