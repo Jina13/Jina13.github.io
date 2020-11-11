@@ -24,8 +24,8 @@ description              : #
 url                      : # the base hostname & protocol for your site e.g. "https://jina13.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog" 
 repository               : # GitHub username/repo-name e.g. "Jina13/Jina13.github.io"
-teaser                   : # path of fallback teaser image, e.g. "C:\/githubPages/Jina13.github.io/assets/bio-photo.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : # path of fallback teaser image, e.g. "C:\/githubPages/Jina13.github.io/assets/images/bio-photo.png"
+logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -94,17 +94,17 @@ analytics:
 # Site Author
 author:
   name             : "Jina's Tech Blog"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.png"
+  avatar           : # path of avatar image, e.g. "C:\/githubPages/Jina13.github.io/assets/images/bio-photo.png"
   bio              : "**UX**에 관심 많은 QA 입니다."
-  location         : "광주로 쉬러왔답니다:)"
+  location         : "South Korea"
   email            : "gina2567@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:gina2567@naver.com"
+      # url: "mailto:gina2567@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://jina13.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
