@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /portfolio/
+permalink: /portfolio/meter/
 layout: single
 title: 미터 검증
 ---

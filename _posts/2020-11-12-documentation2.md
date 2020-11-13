@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /portfolio/
+permalink: /portfolio/webapp/
 layout: single
 title: 애플리케이션 및 웹사이트 검증
 ---
