@@ -5,7 +5,7 @@ layout: single
 
 Title: "신입생 학업장려 장학생, 그게 바로 나야 나! 나야 나!"
 
-permalink: /sideproject/
+permalink: /sideproject/02
 
 Publish Date: 2020-04-27 20:54:24
 ---
