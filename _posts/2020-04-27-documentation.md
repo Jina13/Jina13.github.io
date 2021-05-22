@@ -1,9 +1,11 @@
 ---
 layout: post
 
-Title: 신입생 학업장려 장학생, 그게 바로 나야 나! 나야 나!
+layout: single
 
-category: sideproject
+Title: "신입생 학업장려 장학생, 그게 바로 나야 나! 나야 나!"
+
+permalink: /sideproject/
 
 Publish Date: 2020-04-27 20:54:24
 ---
@@ -16,7 +18,7 @@ Publish Date: 2020-04-27 20:54:24
 
 
 
-![image-20210522130113772](C:\Users\gina2\AppData\Roaming\Typora\typora-user-images\image-20210522130113772.png)
+![] (/assets/images/2.jpg)
 
 
 
