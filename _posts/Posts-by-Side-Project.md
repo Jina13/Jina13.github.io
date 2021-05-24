@@ -1,7 +1,7 @@
 ---
 title: "Posts by Side Project"
 layout: categories
-permalink: /sideproject/
+permalink: /categories/
 author_profile: true
 ---
 
