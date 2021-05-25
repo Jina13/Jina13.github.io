@@ -1,6 +1,6 @@
 ---
 title: "Side Project PAGE"
-permalink: /sideproject/
+permalink: https://jina13.github.io/sideproject/
 layout: category
 author_profile: true
 taxonomy: sideproject
