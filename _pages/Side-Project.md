@@ -6,4 +6,5 @@ author_profile: true
 taxonomy: sideproject
 ---
 
-Side Project Page
+Posts by Side Project
+
