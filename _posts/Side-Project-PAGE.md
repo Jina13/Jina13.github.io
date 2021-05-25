@@ -1,7 +1,8 @@
 ---
 title: "Side Project PAGE"
-permalink:  /sideproject/
-layout: category
+permalink: /sideproject/
+layout: post
+layout: single
 author_profile: true
 taxonomy: sideproject
 ---
