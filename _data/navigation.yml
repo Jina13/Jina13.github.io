@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Portfolio"
-    url: /portfolio/
+    url: /categories/portfolio/
   - title: "Study"
-    url: /study/
+    url: /categories/study/
   - title: "Side Project"
-    url: /sideproject/
+    url: /categories/sideproject/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
