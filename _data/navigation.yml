@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Portfolio"
-    url: https://jina13.github.io/portfolio/
+    url: /portfolio/
   - title: "Study"
-    url: https://jina13.github.io/study/
+    url: /study/
   - title: "Side Project"
-    url: https://jina13.github.io/sideproject/
+    url: /sideproject/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
